@@ -1,4 +1,5 @@
 # LearnOpenCV
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41MTGJW)
 
 This repository contains code for Computer Vision, Deep learning, and AI research articles shared on our blog [LearnOpenCV.com](https://www.LearnOpenCV.com).
 
